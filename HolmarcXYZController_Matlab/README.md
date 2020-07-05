@@ -1,2 +1,2 @@
 # HolmarcXYZControlMatlab
-Homarc XYZ Controller is a controller that controls 3 motors at the same time.
+Homarc XYZ Controller is a high-precision microposition controller.
